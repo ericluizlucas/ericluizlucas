@@ -1,7 +1,7 @@
 ### Olá, sou o Eric Luiz. Seja bem-vindo ao meu GitHub.
 
 - 💼 Atualmente trabalho com BackEnd.
-- ✍️ Estudando FrontEnd e BackEnd, visando melhorar minhas habilidades para o mercado de trabalho.
+- ✍️ Estudando FrontEnd e BackEnd, visando melhorar minhas habilidades e minha capacidade de resolução de problemas.
 - 😄 Pronouns: ele/dele
 
 <div align=center>
